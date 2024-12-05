@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main() {
+    char l1;
+
+    printf("Informe M para Masculino e F para Feminino: ");
+    scanf("%c", &l1);
+
+    if (l1 == 'm' || 'M') 
+    {
+        printf("Masculino");
+    }
+    if (l1 == 'f' || 'F')
+    {
+       printf("Feminino"); 
+    }
+    else
+    {
+       printf("Letra Invalida");
+    }
+
+    return 0;
+}
