@@ -1,5 +1,5 @@
 
-/* Exercicio pag33.
+/* 
 
 Escreva um programa que leia nome, idade e altura de uma pessoa e exiba nome, 
 idade, altura e ano de nascimento dela  
